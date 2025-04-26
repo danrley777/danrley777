@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack`**
 
-Me chamo **Danrley de Magalhães Piassa**, tenho 29 anos e sou natural de **São Paulo (SP)**. Concluí o **ensino médio regular**, meu primeiro contato com a programação foi com 27 anos. Atualmente, estou cursando **Desenvolvimento Mobile na BMS( Brasil Mobile Scholl) (https://www.fiap.com.br/graduacao/bacharelado/ciencia-da-computacao-data-science-ia-platform-engineering/)**. Me apaixonei demais na área da tecnologia, e estou sempre buscando desafios para superar meus próprios limites.
+Me chamo **Danrley Carvalho dos Santos**, tenho 29 anos e sou natural de **São Paulo (SP)**. Concluí o **ensino médio regular**, meu primeiro contato com a programação foi com 27 anos. Atualmente, estou cursando **Desenvolvimento Mobile na BMS( Brasil Mobile Scholl)**. Me apaixonei demais na área da tecnologia, e estou sempre buscando desafios para superar meus próprios limites.
 
 <div> 
   <a href="https://www.instagram.com/manoo.dan/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
@@ -20,8 +20,6 @@ Me chamo **Danrley de Magalhães Piassa**, tenho 29 anos e sou natural de **São
   <img align="center" height="40" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img align="center" height="40" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
   <img align="center" height="40" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img align="center" height="40" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
-  <img align="center" height="40" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg">
   <img align="center" height="40" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
   <img align="center" height="40" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" height="40" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
