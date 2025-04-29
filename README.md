@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack`**
 
-Me chamo **Danrley Carvalho dos Santos**, tenho 29 anos e sou natural de **São Paulo (SP)**. Concluí o **ensino médio regular**, meu primeiro contato com a programação foi com 27 anos. Atualmente, estou cursando **Desenvolvimento Mobile na BMS( Brasil Mobile Scholl)**. Me apaixonei demais na área da tecnologia, e estou sempre buscando desafios para superar meus próprios limites.
+Me chamo **Danrley Carvalho dos Santos**, tenho 29 anos e sou natural de **São Paulo (SP)**. Concluí o **ensino médio regular**, meu primeiro contato com a programação foi com 27 anos. Atualmente, estou cursando **Desenvolvimento Mobile na BMS( Brasil Mobile Scholl) e Desenvolvimento Full Stack Python na EBAC ( Escola britânica de artes criativas & tecnologia ) **. Me apaixonei demais na área da tecnologia, e estou sempre buscando desafios para superar meus próprios limites.
 
 <div> 
   <a href="https://www.instagram.com/manoo.dan/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
